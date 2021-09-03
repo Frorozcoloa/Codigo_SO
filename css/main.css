@@ -1,0 +1,9 @@
+body{
+    background-color: whitesmoke;
+}
+.card-body{
+    background-color: #DCDCDC;
+}
+.row-header{
+    margin-top: 15%;
+}
