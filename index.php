@@ -2,7 +2,6 @@
     @session_start();
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +12,6 @@
     <title>Document</title>
 </head>
 <body>
-    
     <div class="container">
         <div class="row row-header justify-content-md-center">
             <div class="col-sm-4">
