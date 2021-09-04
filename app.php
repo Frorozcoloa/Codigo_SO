@@ -1,6 +1,5 @@
-
 <?php include("seguridad.php"); ?>
-<html>
+    <html>
     <head>
         <title>Bienvenido al sistema</title>
     </head>
