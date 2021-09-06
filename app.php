@@ -7,8 +7,7 @@
     <body>
         <div class="container">
             <div class="d-flex flex-row justify-content-center alig-items-center">
-                <h5 aling="center">Login Correcto</h5>
-                <h5 aling="center">Hola! <?php echo $_SESSION["user"]; ?></h5>
+                <h5 aling="center">Login Correcto, Hola! <?php echo $_SESSION["user"]; ?></h5>
             </div>
         </div>
     </body>
