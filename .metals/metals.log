@@ -10,3 +10,5 @@
 [0m2021.09.06 08:33:50 INFO  shutting down Metals[0m
 [0m2021.09.06 08:36:59 INFO  Started: Metals version 0.10.5 in workspace 'C:\xampp\htdocs\So\windows_server' for client Visual Studio Code 1.57.1.[0m
 [0m2021.09.06 08:37:00 INFO  time: initialize in 1.2s[0m
+[0m2021.09.06 08:37:02 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.06 08:37:02 WARN  no build tool detected in workspace 'C:\xampp\htdocs\So\windows_server'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
