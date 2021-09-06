@@ -1,0 +1,20 @@
+body{
+    background-color: #4A403A !important
+}
+.form-card{
+    margin:150px 150px 150px 150px;
+    background-color: #A45D5D!important;
+
+}
+
+.btn-color{
+    background-color: #FFC069 !important
+}
+
+input[type="text"]{
+    background-color: #EFEFEF;
+}
+
+input[type="password"]{
+    background-color: #EFEFEF;
+}
